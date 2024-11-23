@@ -14,7 +14,7 @@ function ImageContainer({
         fill
         sizes="100vw"
         alt={name}
-        className="object-cover  rounded-md"
+        className="object-cover  rounded"
         priority
       />
     </section>
